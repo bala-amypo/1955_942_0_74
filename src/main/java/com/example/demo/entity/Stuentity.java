@@ -1,4 +1,4 @@
-package com.example.PracticeProject.entity;
+package com.example.demo.entity;
 
 
 
